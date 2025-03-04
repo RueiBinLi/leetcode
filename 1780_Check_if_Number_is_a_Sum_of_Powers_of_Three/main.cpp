@@ -19,13 +19,32 @@ class Solution {
     
             return true;
         }
+
+        bool checkPowersOfThree2(int n) {
+            while(n > 0) {
+                if(n % 3 == 2) return false;
+                n/=3;
+            }
+    
+            return true;
+        }
     };
 
 int main(int argc, char* argv[]) {
     Solution solution;
     vector<int> test_cases = {12, 91, 21, 1, 0};
+
+    cout << "Solution 1" << endl;
+
     for(int i = 0; i < test_cases.size(); i++) {
         if(solution.checkPowersOfThree(test_cases[i])) cout << "true" << endl;
+        else cout << "false" << endl;
+    }
+
+    cout << endl << "Solution 2" << endl;
+
+    for(int i = 0; i < test_cases.size(); i++) {
+        if(solution.checkPowersOfThree2(test_cases[i])) cout << "true" << endl;
         else cout << "false" << endl;
     }
 
