@@ -33,8 +33,15 @@
 
 
 ## Directory
-build
+build/
+
+# Local extensionless executables created beside a solution.
+problems/**/main
 
 ## File
 settings.json
 *.code-workspace
+
+# Python bytecode caches.
+__pycache__/
+*.py[cod]
