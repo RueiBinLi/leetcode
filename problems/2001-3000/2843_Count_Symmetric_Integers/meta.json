@@ -1,12 +1,15 @@
 {
   "id": 2843,
   "title": "Count Symmetric Integers",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/count-symmetric-integers/",
+  "difficulty": "easy",
+  "topics": [
+    "Math",
+    "Enumeration"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2025-04-11"
 }

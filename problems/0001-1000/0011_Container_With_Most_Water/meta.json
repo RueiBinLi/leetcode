@@ -1,12 +1,16 @@
 {
   "id": 11,
   "title": "Container With Most Water",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/container-with-most-water/",
+  "difficulty": "medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2026-03-29"
 }

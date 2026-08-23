@@ -1,12 +1,15 @@
 {
   "id": 2962,
   "title": "Count Subarrays Where Max Element Appears at Least K Times",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
+  "difficulty": "medium",
+  "topics": [
+    "Array",
+    "Sliding Window"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2025-04-29"
 }

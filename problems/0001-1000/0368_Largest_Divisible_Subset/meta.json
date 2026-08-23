@@ -1,12 +1,17 @@
 {
   "id": 368,
   "title": "Largest Divisible Subset",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/largest-divisible-subset/",
+  "difficulty": "medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Sort"
+  ],
   "languages": [
     "cpp"
   ],
-  "status": "solved",
-  "solved_at": null
+  "status": "review",
+  "solved_at": "2025-04-06"
 }

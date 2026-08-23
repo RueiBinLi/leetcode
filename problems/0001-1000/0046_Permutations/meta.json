@@ -1,12 +1,15 @@
 {
   "id": 46,
   "title": "Permutations",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/permutations/",
+  "difficulty": "medium",
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
   "languages": [
     "python"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2025-07-11"
 }

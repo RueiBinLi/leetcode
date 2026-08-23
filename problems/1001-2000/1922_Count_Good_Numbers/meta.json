@@ -1,12 +1,15 @@
 {
   "id": 1922,
   "title": "Count Good Numbers",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/count-good-numbers/",
+  "difficulty": "medium",
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2025-04-13"
 }

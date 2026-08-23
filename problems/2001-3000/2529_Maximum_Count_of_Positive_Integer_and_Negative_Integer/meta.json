@@ -1,12 +1,16 @@
 {
   "id": 2529,
   "title": "Maximum Count of Positive Integer and Negative Integer",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/",
+  "difficulty": "easy",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Counting"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2026-08-23"
 }

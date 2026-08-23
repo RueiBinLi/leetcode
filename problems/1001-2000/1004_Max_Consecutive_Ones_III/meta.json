@@ -1,12 +1,17 @@
 {
   "id": 1004,
   "title": "Max Consecutive Ones III",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+  "difficulty": "medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2025-04-11"
 }

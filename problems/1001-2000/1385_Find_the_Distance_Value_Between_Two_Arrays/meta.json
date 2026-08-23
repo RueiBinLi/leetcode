@@ -1,12 +1,17 @@
 {
   "id": 1385,
   "title": "Find the Distance Value Between Two Arrays",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+  "difficulty": "easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sort"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2026-08-22"
 }

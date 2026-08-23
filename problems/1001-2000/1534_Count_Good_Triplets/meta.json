@@ -1,12 +1,15 @@
 {
   "id": 1534,
   "title": "Count Good Triplets",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/count-good-triplets/",
+  "difficulty": "easy",
+  "topics": [
+    "Array",
+    "Enumeration"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2025-04-14"
 }

@@ -1,12 +1,17 @@
 {
   "id": 300,
   "title": "Longest Increasing Subsequence",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+  "difficulty": "medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Longest Increasing Subsequence"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2026-08-15"
 }

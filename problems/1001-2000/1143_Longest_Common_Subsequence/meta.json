@@ -1,12 +1,16 @@
 {
   "id": 1143,
   "title": "Longest Common Subsequence",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/longest-common-subsequence/",
+  "difficulty": "medium",
+  "topics": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2026-08-15"
 }

@@ -1,12 +1,17 @@
 {
   "id": 2300,
   "title": "Successful Pairs of Spells and Potions",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
+  "difficulty": "medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sort"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2026-08-23"
 }

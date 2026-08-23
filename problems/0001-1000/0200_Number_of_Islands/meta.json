@@ -1,12 +1,18 @@
 {
   "id": 200,
   "title": "Number of Islands",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/number-of-islands/",
+  "difficulty": "medium",
+  "topics": [
+    "Array",
+    "DFS",
+    "BFS",
+    "Union Find",
+    "Matrix"
+  ],
   "languages": [
     "python"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2025-07-11"
 }

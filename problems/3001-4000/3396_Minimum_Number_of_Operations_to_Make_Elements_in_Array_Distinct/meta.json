@@ -1,12 +1,15 @@
 {
   "id": 3396,
   "title": "Minimum Number of Operations to Make Elements in Array Distinct",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/",
+  "difficulty": "easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
   "languages": [
     "cpp"
   ],
   "status": "solved",
-  "solved_at": null
+  "solved_at": "2025-04-08"
 }

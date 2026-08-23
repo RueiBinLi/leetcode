@@ -1,12 +1,18 @@
 {
   "id": 2014,
   "title": "Longest Subsequence Repeated k Times",
-  "url": null,
-  "difficulty": null,
-  "topics": [],
+  "url": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/",
+  "difficulty": "hard",
+  "topics": [
+    "String",
+    "Backtracking",
+    "Greedy",
+    "Counting",
+    "Enumeration"
+  ],
   "languages": [
     "cpp"
   ],
-  "status": "solved",
-  "solved_at": null
+  "status": "review",
+  "solved_at": "2025-06-27"
 }
