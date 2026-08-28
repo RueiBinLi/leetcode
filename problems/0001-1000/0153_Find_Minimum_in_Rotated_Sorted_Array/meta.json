@@ -1,0 +1,15 @@
+{
+  "id": 153,
+  "title": "Find Minimum in Rotated Sorted Array",
+  "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+  "difficulty": "medium",
+  "topics": [
+    "array",
+    "binary_search"
+  ],
+  "languages": [
+    "cpp"
+  ],
+  "status": "solved",
+  "solved_at": "2026-08-28"
+}
