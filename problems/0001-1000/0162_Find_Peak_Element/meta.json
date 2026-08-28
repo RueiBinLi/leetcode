@@ -1,0 +1,15 @@
+{
+  "id": 162,
+  "title": "Find Peak Element",
+  "url": "https://leetcode.com/problems/find-peak-element/",
+  "difficulty": "medium",
+  "topics": [
+    "array",
+    "binary_search"
+  ],
+  "languages": [
+    "cpp"
+  ],
+  "status": "solved",
+  "solved_at": "2026-08-28"
+}
