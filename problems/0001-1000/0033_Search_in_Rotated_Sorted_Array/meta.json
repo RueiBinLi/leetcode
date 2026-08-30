@@ -1,0 +1,15 @@
+{
+  "id": 33,
+  "title": "Search in Rotated Sorted Array",
+  "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+  "difficulty": "medium",
+  "topics": [
+    "array",
+    "binary_search"
+  ],
+  "languages": [
+    "cpp"
+  ],
+  "status": "solved",
+  "solved_at": "2026-08-30"
+}

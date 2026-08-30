@@ -1,0 +1,16 @@
+{
+  "id": 74,
+  "title": "Search a 2D Matrix",
+  "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+  "difficulty": "medium",
+  "topics": [
+    "array",
+    "binary_search",
+    "matrix"
+  ],
+  "languages": [
+    "cpp"
+  ],
+  "status": "solved",
+  "solved_at": "2026-08-30"
+}
