@@ -4,8 +4,8 @@
 
 ## Complexity
 
-- Time: O(logn)
-- Space: O(1)
+- Time: 
+- Space: 
 
 ## Pitfall
 
