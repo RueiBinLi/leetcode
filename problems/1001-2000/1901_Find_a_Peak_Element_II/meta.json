@@ -1,0 +1,16 @@
+{
+  "id": 1901,
+  "title": "Find a Peak Element II",
+  "url": "https://leetcode.com/problems/find-a-peak-element-ii/",
+  "difficulty": "medium",
+  "topics": [
+    "array",
+    "binary_search",
+    "matrix"
+  ],
+  "languages": [
+    "cpp"
+  ],
+  "status": "solved",
+  "solved_at": "2026-09-01"
+}
